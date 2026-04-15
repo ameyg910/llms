@@ -1,0 +1,364 @@
+outputs of pretraining.py
+
+Input batch:
+ tensor([[29744,  4673,   318,   523,   881,  1257],
+        [ 1026,   373, 19304,   287, 27140, 10128]])
+
+Output shape: torch.Size([2, 6, 50257])
+tensor([[[ 0.3669, -0.1964, -0.0385,  ..., -0.1362, -0.2178, -0.8006],
+         [ 0.5070,  0.6923,  0.2859,  ..., -0.4652, -0.3014, -0.0853],
+         [ 1.5037, -0.6379,  0.1118,  ...,  0.3886, -0.1033, -0.4449],
+         [ 0.0745,  0.5688,  0.5261,  ...,  0.7108, -0.1337, -0.5986],
+         [ 1.0921,  0.6043, -0.0759,  ..., -0.8405, -0.5282,  0.6168],
+         [-0.2072,  0.3221,  0.2437,  ..., -0.3562,  0.1211, -1.3098]],
+
+        [[-0.0759, -0.1267, -0.3782,  ..., -0.0153,  0.8424, -0.8778],
+         [-0.0772,  0.6561,  0.9376,  ...,  0.2950, -0.7439, -0.0947],
+         [ 0.9560,  0.5989, -0.0369,  ...,  0.6694, -0.5107,  0.0524],
+         [-0.5412,  0.6308, -0.4691,  ...,  1.0490, -0.0776, -0.5587],
+         [ 1.4058,  0.0788,  0.7331,  ...,  0.0768, -0.1254, -0.8377],
+         [-0.7553,  0.9974, -0.1711,  ..., -1.3821,  0.3519, -0.7509]]],
+       grad_fn=<UnsafeViewBackward0>)
+163,009,536
+torch.Size([50257, 768])
+torch.Size([50257, 768])
+124,412,160
+621.83203125 MB
+474.5947265625 MB
+encoded text:  [34556, 40584, 30297, 764]
+Encoded Text:  tensor([[34556, 40584, 30297,   764]])
+tensor([[34556, 40584, 30297,   764,   928, 45995, 30028, 34464, 42386, 13918,
+         33724, 43231, 30967, 42175]])
+14
+Computer Virus Programming .olog unfolds Trick shortened organiseEXT burglary Normandy freezerigrate
+tensor([[34556, 30297,   318,   257,  1257,  1781]])
+tensor([[  40, 1392,  281,  317, 9559,  287,  326]])
+tensor([[34556, 30297,   318,   257,  1257,  1781, 32866,  9658, 25991,  9390,
+         42561, 23870, 23760, 37595, 43749, 13812]])
+Computer Programming is a fun course ultras stayedmaybeuto Parancache inflammatoryarf CLIdisplay
+torch.Size([2, 5, 50257])
+tensor([[[45433],
+         [48563],
+         [17284],
+         [16180],
+         [49329]],
+
+        [[ 8615],
+         [27642],
+         [    9],
+         [14864],
+         [27234]]])
+ Programming is a fun course
+��adish Valent threaten Bagg
+ got an A grade in
+ cos proponents*guard factual
+tensor([1.5196e-05, 1.9845e-05, 9.0251e-06, 1.5317e-05, 1.1670e-05])
+tensor([2.6780e-05, 2.6689e-05, 4.4039e-05, 2.1974e-05, 2.0695e-05])
+tensor([-11.0945, -10.8276, -11.6155, -11.0865, -11.3585, -10.5278, -10.5312,
+        -10.0304, -10.7257, -10.7856])
+tensor(-10.8583)
+tensor(10.8583)
+456795
+159573
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+Val data
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+Val data
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+Val data
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+Val data
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+Val data
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+Val data
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+Val data
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([2, 1024]) torch.Size([2, 1024])
+torch.Size([1, 1024]) torch.Size([1, 1024])
+68
+10
+10.937295296612907
+10.888889408111572
+Ep 1 (Step 000000): Train loss 8.712, Val loss 7.181
+Ep 1 (Step 000005): Train loss 7.364, Val loss 6.720
+Ep 1 (Step 000010): Train loss 5.683, Val loss 5.638
+Ep 1 (Step 000015): Train loss 6.313, Val loss 5.623
+Ep 1 (Step 000020): Train loss 6.277, Val loss 5.529
+Ep 1 (Step 000025): Train loss 6.302, Val loss 5.429
+Ep 1 (Step 000030): Train loss 5.142, Val loss 5.194
+Ep 1 (Step 000035): Train loss 5.446, Val loss 5.239
+Ep 1 (Step 000040): Train loss 5.931, Val loss 5.095
+Ep 1 (Step 000045): Train loss 6.459, Val loss 5.105
+Ep 1 (Step 000050): Train loss 6.057, Val loss 5.110
+Ep 1 (Step 000055): Train loss 5.348, Val loss 4.982
+Ep 1 (Step 000060): Train loss 5.815, Val loss 4.965
+Ep 1 (Step 000065): Train loss 5.986, Val loss 4.908
+Computer Programming is a fun course, , , , , , , ,     ,      , , , ,      ,  ,   ,  
+Ep 2 (Step 000070): Train loss 6.369, Val loss 4.908
+Ep 2 (Step 000075): Train loss 6.447, Val loss 4.916
+Ep 2 (Step 000080): Train loss 5.535, Val loss 4.927
+Ep 2 (Step 000085): Train loss 5.473, Val loss 4.870
+Ep 2 (Step 000090): Train loss 5.303, Val loss 4.893
+Ep 2 (Step 000095): Train loss 4.694, Val loss 4.914
+Ep 2 (Step 000100): Train loss 5.477, Val loss 4.885
+Ep 2 (Step 000105): Train loss 6.203, Val loss 4.918
+Ep 2 (Step 000110): Train loss 5.136, Val loss 4.892
+Ep 2 (Step 000115): Train loss 6.051, Val loss 4.872
+Ep 2 (Step 000120): Train loss 5.483, Val loss 4.846
+Ep 2 (Step 000125): Train loss 4.964, Val loss 4.859
+Ep 2 (Step 000130): Train loss 5.069, Val loss 4.833
+Ep 2 (Step 000135): Train loss 4.968, Val loss 4.836
+Computer Programming is a fun course, and the ; a ; a ; ; the ; ; ; the ; ; ; ; the The ; ; ; ; ; the ; the ;
+Ep 3 (Step 000140): Train loss 4.895, Val loss 4.836
+Ep 3 (Step 000145): Train loss 4.625, Val loss 4.752
+Ep 3 (Step 000150): Train loss 4.760, Val loss 4.737
+Ep 3 (Step 000155): Train loss 5.689, Val loss 4.890
+Ep 3 (Step 000160): Train loss 5.850, Val loss 4.774
+Ep 3 (Step 000165): Train loss 5.219, Val loss 4.772
+Ep 3 (Step 000170): Train loss 4.737, Val loss 4.734
+Ep 3 (Step 000175): Train loss 4.572, Val loss 4.803
+Ep 3 (Step 000180): Train loss 5.183, Val loss 4.772
+Ep 3 (Step 000185): Train loss 5.827, Val loss 4.762
+Ep 3 (Step 000190): Train loss 4.679, Val loss 4.766
+Ep 3 (Step 000195): Train loss 5.509, Val loss 4.669
+Ep 3 (Step 000200): Train loss 5.029, Val loss 4.627
+Computer Programming is a fun course, and C, and C. (2. C. H. C. H. C. H. C. C. C. C. C. C. 
+Ep 4 (Step 000205): Train loss 4.827, Val loss 4.665
+Ep 4 (Step 000210): Train loss 4.695, Val loss 4.687
+Ep 4 (Step 000215): Train loss 4.413, Val loss 4.591
+Ep 4 (Step 000220): Train loss 4.692, Val loss 4.565
+Ep 4 (Step 000225): Train loss 4.807, Val loss 4.581
+Ep 4 (Step 000230): Train loss 4.990, Val loss 4.611
+Ep 4 (Step 000235): Train loss 5.084, Val loss 4.650
+Ep 4 (Step 000240): Train loss 4.574, Val loss 4.629
+Ep 4 (Step 000245): Train loss 4.995, Val loss 4.650
+Ep 4 (Step 000250): Train loss 4.495, Val loss 4.553
+Ep 4 (Step 000255): Train loss 4.070, Val loss 4.647
+Ep 4 (Step 000260): Train loss 4.513, Val loss 4.665
+Ep 4 (Step 000265): Train loss 4.640, Val loss 4.791
+Ep 4 (Step 000270): Train loss 4.517, Val loss 4.659
+Computer Programming is a fun course.
+Ep 5 (Step 000275): Train loss 5.221, Val loss 4.657
+Ep 5 (Step 000280): Train loss 4.443, Val loss 4.578
+Ep 5 (Step 000285): Train loss 3.609, Val loss 4.559
+Ep 5 (Step 000290): Train loss 4.239, Val loss 4.592
+Ep 5 (Step 000295): Train loss 3.997, Val loss 4.853
+Ep 5 (Step 000300): Train loss 4.788, Val loss 4.637
+Ep 5 (Step 000305): Train loss 3.876, Val loss 4.592
+Ep 5 (Step 000310): Train loss 4.796, Val loss 4.597
+Ep 5 (Step 000315): Train loss 4.401, Val loss 4.548
+Ep 5 (Step 000320): Train loss 4.008, Val loss 4.550
+Ep 5 (Step 000325): Train loss 3.635, Val loss 4.484
+Ep 5 (Step 000330): Train loss 3.575, Val loss 4.454
+Ep 5 (Step 000335): Train loss 3.240, Val loss 4.519
+Computer Programming is a fun course, and M and phreaking and phreaking and phreaking and phreaking and phreaking and phreaking BBS it¹s, and phreaking and phreaking and phreaking and phre
+Ep 6 (Step 000340): Train loss 3.969, Val loss 4.440
+Ep 6 (Step 000345): Train loss 3.954, Val loss 4.450
+Ep 6 (Step 000350): Train loss 3.894, Val loss 4.448
+Ep 6 (Step 000355): Train loss 3.929, Val loss 4.421
+Ep 6 (Step 000360): Train loss 3.779, Val loss 4.436
+Ep 6 (Step 000365): Train loss 3.599, Val loss 4.473
+Ep 6 (Step 000370): Train loss 3.825, Val loss 4.443
+Ep 6 (Step 000375): Train loss 3.117, Val loss 4.405
+Ep 6 (Step 000380): Train loss 3.325, Val loss 4.398
+Ep 6 (Step 000385): Train loss 3.944, Val loss 4.396
+Ep 6 (Step 000390): Train loss 3.606, Val loss 4.465
+Ep 6 (Step 000395): Train loss 3.478, Val loss 4.477
+Ep 6 (Step 000400): Train loss 3.604, Val loss 4.431
+Ep 6 (Step 000405): Train loss 2.866, Val loss 4.395
+Computer Programming is a fun course, and the the (2) NICK, and the _, and the _, and the hacker _, and the _, and the password file. _, _, and the
+Ep 7 (Step 000410): Train loss 2.819, Val loss 4.407
+Ep 7 (Step 000415): Train loss 3.100, Val loss 4.405
+Ep 7 (Step 000420): Train loss 3.436, Val loss 4.428
+Ep 7 (Step 000425): Train loss 2.843, Val loss 4.550
+Ep 7 (Step 000430): Train loss 3.330, Val loss 4.541
+Ep 7 (Step 000435): Train loss 3.034, Val loss 4.559
+Ep 7 (Step 000440): Train loss 2.959, Val loss 4.442
+Ep 7 (Step 000445): Train loss 2.838, Val loss 4.395
+Ep 7 (Step 000450): Train loss 3.066, Val loss 4.409
+Ep 7 (Step 000455): Train loss 3.011, Val loss 4.469
+Ep 7 (Step 000460): Train loss 3.295, Val loss 4.380
+Ep 7 (Step 000465): Train loss 2.733, Val loss 4.361
+Ep 7 (Step 000470): Train loss 2.732, Val loss 4.368
+Ep 7 (Step 000475): Train loss 2.989, Val loss 4.400
+Computer Programming is a fun course, the
+Ep 8 (Step 000480): Train loss 2.731, Val loss 4.375
+Ep 8 (Step 000485): Train loss 2.895, Val loss 4.452
+Ep 8 (Step 000490): Train loss 3.067, Val loss 4.470
+Ep 8 (Step 000495): Train loss 2.880, Val loss 4.391
+Ep 8 (Step 000500): Train loss 2.376, Val loss 4.351
+Ep 8 (Step 000505): Train loss 2.619, Val loss 4.357
+Ep 8 (Step 000510): Train loss 2.784, Val loss 4.347
+Ep 8 (Step 000515): Train loss 2.411, Val loss 4.443
+Ep 8 (Step 000520): Train loss 2.415, Val loss 4.468
+Ep 8 (Step 000525): Train loss 2.414, Val loss 4.432
+Ep 8 (Step 000530): Train loss 2.423, Val loss 4.422
+Ep 8 (Step 000535): Train loss 2.362, Val loss 4.554
+Ep 8 (Step 000540): Train loss 2.489, Val loss 4.511
+Computer Programming is a fun course, and DARK-8-5 717 830 B-5 717 817 817 830 IA, IA, 915 517 817 817 817 817 817 815 717 
+Ep 9 (Step 000545): Train loss 2.370, Val loss 4.425
+Ep 9 (Step 000550): Train loss 2.327, Val loss 4.419
+Ep 9 (Step 000555): Train loss 2.458, Val loss 4.451
+Ep 9 (Step 000560): Train loss 2.474, Val loss 4.499
+Ep 9 (Step 000565): Train loss 2.371, Val loss 4.440
+Ep 9 (Step 000570): Train loss 2.048, Val loss 4.415
+Ep 9 (Step 000575): Train loss 2.283, Val loss 4.450
+Ep 9 (Step 000580): Train loss 2.056, Val loss 4.484
+Ep 9 (Step 000585): Train loss 2.450, Val loss 4.517
+Ep 9 (Step 000590): Train loss 1.881, Val loss 4.521
+Ep 9 (Step 000595): Train loss 1.961, Val loss 4.573
+Ep 9 (Step 000600): Train loss 1.832, Val loss 4.575
+Ep 9 (Step 000605): Train loss 1.775, Val loss 4.436
+Ep 9 (Step 000610): Train loss 1.987, Val loss 4.450
+Computer Programming is a fun course, and
+Ep 10 (Step 000615): Train loss 2.027, Val loss 4.508
+Ep 10 (Step 000620): Train loss 1.770, Val loss 4.544
+Ep 10 (Step 000625): Train loss 1.834, Val loss 4.655
+Ep 10 (Step 000630): Train loss 1.609, Val loss 4.663
+Ep 10 (Step 000635): Train loss 1.785, Val loss 4.584
+Ep 10 (Step 000640): Train loss 1.932, Val loss 4.604
+Ep 10 (Step 000645): Train loss 1.789, Val loss 4.561
+Ep 10 (Step 000650): Train loss 1.328, Val loss 4.554
+Ep 10 (Step 000655): Train loss 1.562, Val loss 4.429
+Ep 10 (Step 000660): Train loss 1.326, Val loss 4.433
+Ep 10 (Step 000665): Train loss 1.555, Val loss 4.531
+Ep 10 (Step 000670): Train loss 1.322, Val loss 4.498
+Ep 10 (Step 000675): Train loss 1.234, Val loss 4.581
+Computer Programming is a fun course, and passwords are listed below: Username: Password: PRIME PRIME PRIME PRIMOS PRIME PRIMOS PRIMOS PRIMEN- PR, and the code LINK SY
+Training completed in: 141.37 minutes
